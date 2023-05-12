@@ -1,4 +1,5 @@
 # Data protection when using AI technology
+###### copyright [S. Volkan Kücükbudak](https://github.com/volkansah)
 
 When developing and deploying AI technology, it is important to keep data privacy in mind. Below are best practices and recommendations you should consider when implementing AI systems.
 

@@ -1,4 +1,5 @@
 # Ethical Development and use of AI
+###### copyright [S. Volkan Kücükbudak](https://github.com/volkansah)
 Artificial Intelligence (AI) has made significant advances in recent years and is being used in more and more areas. However, this also gives rise to numerous ethical considerations that developers and users of AI systems must take into account.
 
 ## Responsibility of Developers and Users

@@ -1,4 +1,5 @@
 # User Training for Handling AI Systems and the Importance of IT Security
+###### copyright [S. Volkan Kücükbudak](https://github.com/volkansah)
 When implementing AI systems, it is important that not only the developers, but also the users of the systems are adequately trained. Because if users do not understand the operation and potential of the AI systems or do not know how to handle them safely, security gaps can arise and jeopardize data integrity.
 
 ## Here are some best practices for training users to handle AI systems:

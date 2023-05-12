@@ -1,4 +1,5 @@
 ## Security of AI Systems
+###### copyright [S. Volkan Kücükbudak](https://github.com/volkansah)
 AI systems offer many opportunities, but they also bring security risks. It's important to protect AI systems from attacks and identify vulnerabilities in order to implement security measures.
 ## Threats and Risks of AI
 Before we delve into the details of the security of AI systems, it's important to understand the threats and risks that AI systems are exposed to. Here are some common threats and risks:

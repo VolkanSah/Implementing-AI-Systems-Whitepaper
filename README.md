@@ -16,14 +16,14 @@ Every year the same problem: You get harassed by countless, annoying scammers on
 Currently, there are many supposed security concepts for companies or free white papers, but often behind the schemes of known scammers is a contract that can cost the next victim thousands of euros. I hope this white paper helps you and encourages many to maintain and care for this Git, so that it can help all those who can't afford their own IT security department.
 
 # Topics
-- Security of AI Systems: How to protect AI systems from attacks, including identifying vulnerabilities and implementing security measures.
-- Privacy: How to comply with privacy regulations when developing AI systems, including avoiding biases in data and ensuring privacy.
-- Ethics: The ethical considerations in developing and using AI, including the responsibilities of developers and users.
-- AI Models and Algorithms: The security aspects of AI models and algorithms, including identifying vulnerabilities and implementing security measures.
-- Development Process: Best practices for developing AI systems, including using tests, code reviews, and documenting security measures.
-- User Training: Training users in dealing with AI systems and the importance of IT security.
-- Regulation: The importance of regulation and laws in relation to the development and use of AI.
-- Concrete Examples: Specific examples of AI security issues and how they can be avoided or resolved.
+- [Security of AI Systems](AI-Security-md) : How to protect AI systems from attacks, including identifying vulnerabilities and implementing security measures.
+- [Privacy](AI-Privacy.md) : How to comply with privacy regulations when developing AI systems, including avoiding biases in data and ensuring privacy.
+- [Ethics](AI-Ethics.md) : The ethical considerations in developing and using AI, including the responsibilities of developers and users.
+- [AI Models and Algorithms](AI-Models.md) : The security aspects of AI models and algorithms, including identifying vulnerabilities and implementing security measures.
+- [Development Process](AI-Development.md) : Best practices for developing AI systems, including using tests, code reviews, and documenting security measures.
+- [User Training](User-Training.md) : Training users in dealing with AI systems and the importance of IT security.
+- [Regulation](Regulation.md) : The importance of regulation and laws in relation to the development and use of AI.
+- [Concrete Examples](Examples.md]: Specific examples of AI security issues and how they can be avoided or resolved.
 
 ## Hello Folks
 If you find this white paper useful and want to freely share your knowledge, I would be delighted for a discussion and your contributions. I would be happy to maintain this white paper together with you, to give scammers no chance to exploit unknowing companies or people. A detailed explanation of what we are all actually doing on Github and Co., in my opinion, has been missing for a long time. Let's bring a little more justice into the world, because we see that scammers are pouncing on AI technology.

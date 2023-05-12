@@ -1,4 +1,5 @@
 # Development Process: Best Practices for Developing AI Systems
+###### copyright [S. Volkan Kücükbudak](https://github.com/volkansah)
 Developing AI systems requires a careful development process to ensure the systems are safe and reliable. Here are some best practices that should be considered when developing AI systems.
 
 ## Use of Tests

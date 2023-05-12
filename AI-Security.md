@@ -28,3 +28,22 @@ Here are some best practices for implementing security measures:
 
 **These security measures should be implemented as part of a comprehensive security strategy to protect the AI system from attacks and unauthorized access. It's also important that all users of the AI system are informed about the applicable security policies and regularly trained to ensure they are aware of how they can contribute to keeping the system safe.**
 
+[Back to overview](README.md#Topics)
+
+## License
+As the author of this white paper, I (and hopefully soon we) place great value on the protection of our rights and on ensuring that the document is not used for unethical or commercial purposes. The free use of this white paper is only permitted in the following contexts:
+
+- For personal use and self-education
+- For small businesses with a maximum of 10 employees
+- For training and educational purposes in public schools and universities worldwide. Use in private educational institutions is "explicitly" not permitted!
+- For ministries of the Federal Republic of Germany
+**Any form of commercial use, distribution, sale, advertising, or quoting of text excerpts for blog posts, websites, or similar purposes is expressly prohibited. If you want to quote from this white paper, you must link to the original document and write your own contribution**
+
+I reserve the right to take legal action against unauthorized use of this white paper. It is of great concern to me to emphasize that this white paper is intended exclusively for educational purposes and may not be used for profit-making. Any use beyond these provisions will be prosecuted.
+
+## Copyright
+Still yet!
+- [© Volkan Kücükbudak](https://github.com/volkansah)
+## Credits
+Orginal source: https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper/
+

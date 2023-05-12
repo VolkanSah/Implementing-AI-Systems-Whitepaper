@@ -1,4 +1,5 @@
 # AI models and algorithms
+###### copyright [S. Volkan Kücükbudak](https://github.com/volkansah)
 
 The use of AI models and algorithms has the potential for significant benefits and innovations in many areas, from medicine to economics. However, AI systems also pose security risks that must be taken into account when developing and using AI models and algorithms.
 

@@ -58,5 +58,5 @@ Copyright
 up to now:
 - [© Volkan Kücükbudak](https://github.com/volkansah)
 ## Credits
-Orginal Quelle: 
+Orginal source: https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper/
 

@@ -1,4 +1,5 @@
 # Examples of AI Security Issues and their Solutions
+###### copyright [S. Volkan Kücükbudak](https://github.com/volkansah)
 ## Example 1: Bias in AI Systems
 A well-known problem with AI systems is the bias that can be reflected in the data and algorithms. This can lead to discrimination and injustice. An example of this is the use of AI in hiring applicants, where women or ethnic minorities can be discriminated against due to bias in the AI algorithm.
 

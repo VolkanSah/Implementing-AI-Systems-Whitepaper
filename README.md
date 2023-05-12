@@ -41,7 +41,7 @@ If you find this project useful and want to support it, there are several ways t
 - Become a Follower: If you're interested in updates and future improvements, please follow my GitHub account. This way you'll always stay up-to-date.
 - Learn more about my work: I invite you to check out all of my work on GitHub and visit my developer site https://volkansah.github.io. Here you will find detailed information about me and my projects.
 - Share the project: If you know someone who could benefit from this project, please share it. The more people who can use it, the better.
-**If you appreciate my work and would like to support it, please visit my [GitHub Sponsor page](https://github.com/sponsors/volkansah. Any type of support is warmly welcomed and helps me to further improve and expand my work.**
+**If you appreciate my work and would like to support it, please visit my [GitHub Sponsor page](https://github.com/sponsors/volkansah). Any type of support is warmly welcomed and helps me to further improve and expand my work.**
 
 Thank you for your support! ❤️
 

@@ -16,7 +16,7 @@ Every year the same problem: You get harassed by countless, annoying scammers on
 Currently, there are many supposed security concepts for companies or free white papers, but often behind the schemes of known scammers is a contract that can cost the next victim thousands of euros. I hope this white paper helps you and encourages many to maintain and care for this Git, so that it can help all those who can't afford their own IT security department.
 
 # Topics
-- [Security of AI Systems](AI-Security-md) : How to protect AI systems from attacks, including identifying vulnerabilities and implementing security measures.
+- [Security of AI Systems](AI-Security.md) : How to protect AI systems from attacks, including identifying vulnerabilities and implementing security measures.
 - [Privacy](AI-Privacy.md) : How to comply with privacy regulations when developing AI systems, including avoiding biases in data and ensuring privacy.
 - [Ethics](AI-Ethics.md) : The ethical considerations in developing and using AI, including the responsibilities of developers and users.
 - [AI Models and Algorithms](AI-Models.md) : The security aspects of AI models and algorithms, including identifying vulnerabilities and implementing security measures.

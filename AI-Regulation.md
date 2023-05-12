@@ -1,4 +1,5 @@
 # The Importance of Regulation and Laws in Relation to the Development and Use of AI
+###### copyright [S. Volkan Kücükbudak](https://github.com/volkansah)
 Artificial intelligence (AI) is being used in an ever-increasing number of application areas and has the potential to fundamentally change our daily lives. However, there are also concerns about the potential risks and impacts of AI on society, the economy, and the environment. Therefore, the regulation of AI systems is becoming increasingly important.
 
 ## Current Regulations and Laws

@@ -2,7 +2,7 @@
 ###### Whitepaper Copyright bei [S. Volkan Kücükbudak](https://github.com/volkansah)
 More and more companies are using AI to improve their applications and services. AI models like ChatGPT from OpenAI are some of the most advanced AI technologies on the market and have the potential to fundamentally change our way of interacting with machines and computers. However, the implementation of AI systems also poses major risks to the security of sensitive data and systems. In this white paper, I provide you with necessary best practices to make your AI integration secure and minimize potential risks. I would like to emphasize that AI is an impressive tool that offers us great potential if used responsibly and securely.
 
-[Whitepaper auf Deutsch](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper/)
+[Whitepaper auf deutsch](https://github.com/VolkanSah/Implementierung-von-KI-Systemen-Whitepaper/)
 
 ## Content
 - [Reason for this white paper](#The-reason-for-this-white-paper)

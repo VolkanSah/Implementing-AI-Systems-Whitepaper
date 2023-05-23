@@ -10,7 +10,7 @@ Before we delve into the details of the security of AI systems, it's important t
 - Biases in the data used to train AI models can amplify prejudices and discrimination and lead to unfair decisions.
 - Security vulnerabilities in AI systems that allow attackers to take control of the system or steal data.
 - Identification of Vulnerabilities
-### In order to protect AI systems from attacks, it's important to identify vulnerabilities. 
+### In order to protect AI systems from attacks, it's important to identify vulnerabilities!!!
 Here are some best practices for identifying vulnerabilities in AI systems:
 
 - Code audits: Review the code for security vulnerabilities, such as Cross-Site Scripting (XSS) or SQL injection.

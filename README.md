@@ -61,5 +61,5 @@ I reserve the right to take legal action against unauthorized use of this white 
 Still yet!
 - [© Volkan Kücükbudak](https://github.com/volkansah)
 ## Credits
-Orginal source: https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper/
+[Orginal source:](https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper/)
 

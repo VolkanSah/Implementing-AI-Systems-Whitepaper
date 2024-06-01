@@ -38,8 +38,5 @@ As the author of this white paper, I (and hopefully soon we) place great value o
 
 I reserve the right to take legal action against unauthorized use of this white paper. It is of great concern to me to emphasize that this white paper is intended exclusively for educational purposes and may not be used for profit-making. Any use beyond these provisions will be prosecuted.
 
-## Copyright
-Still yet!
-- [© Volkan Kücükbudak](https://github.com/volkansah)
 ## Credits
 Orginal source: https://github.com/VolkanSah/Implementing-AI-Systems-Whitepaper/blob/main/AI-Development.md
